@@ -1,2 +1,2 @@
-# UADE-ING-INFOR-Optativas-Filtrator-2000
-Pagina super simple para ver las materias optativas y filtrarlas segun su orientacion.   
+# OPTATIVAS FILTRATOR 2000 para UADE - Ingenieria en Informatica
+Pagina super simple para ver las materias optativas, su descripcion y filtrarlas segun su orientacion. Los filtros disponibles y la clasificacion de materias fueron hechas a mi criterio, no es oficial. Para saber sobre materias minor, consultar en https://www.uade.edu.ar/facultad-de-ingenieria-y-ciencias-exactas/ingenieria-en-informatica/mira-los-minors/   
