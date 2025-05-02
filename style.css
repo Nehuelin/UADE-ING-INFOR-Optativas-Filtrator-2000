@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#subjectContainer{
+    background-color: rgb(174, 179, 169);
+    text-align: center;
+}
+
+#subjectNoInfo{
+    background-color: rgb(240, 110, 110);
+}
+
+.subjectName {
+    margin: 5px 0;
+}
+
+.subjectDesc {
+    background-color: rgb(255, 255, 255);
+    margin-left: 10%;
+    margin-right: 10%
+}
+
+.whiteSpace {
+    background-color: white;
+    color: white;
+}
+
+.counterContainer {
+    display: flex;
+    align-items: center;
+    text-decoration: dotted;
+}
+
+.counterContainer #child1 {
+    place-items: center;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.counterContainer #child2{
+    margin-left: 10px;
+}
+
+footer{
+    position: fixed; 
+    bottom: 0; 
+    left: 0; 
+    width: 100%; 
+    background-color: #333; 
+    color: white; 
+    text-align: center; 
+    padding: 10px;
+}
